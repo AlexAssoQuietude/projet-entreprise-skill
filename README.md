@@ -1,4 +1,4 @@
-# Beezy Project Skill
+# Beezy ioProject Skill
 
 Ce dépôt contient un skill central destiné à guider une intelligence artificielle dans la construction, la structuration et le développement progressif d’un projet entrepreneurial.
 
